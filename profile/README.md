@@ -1,6 +1,6 @@
 <br>
 <!--<div> <!-- this makes it align better for some reason -->
-<img src="the_arcadian.jpg" width="400" height="250" align="left"> 
+<img src="profile/the_arcadian.jpg" width="400" height="250" align="left"> 
 <!-- arguably better looking but doesn't work on github.    -->
 <!-- <p align="left">                                       -->
 <!-- ________________________________________               -->
