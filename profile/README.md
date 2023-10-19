@@ -16,11 +16,12 @@ ___
 
 <pre>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Vivamus in maximus est. Morbi nisl nisl, ultricies at turpis ut,
-ornare cursus leo. Mauris elementum felis mi, eget mattis nisl
-tincidunt sit amet. Duis imperdiet, sapien a gravida egestas,
-lectus dolor pretium purus, nec vulputate arcu est id neque.
-Etiam tincidunt tellus mi, vitae iaculis ligula auctor non.
+Vivamus in maximus est. Morbi nisl nisl, ultricies at
+turpis ut, ornare cursus leo. Mauris elementum felis mi,
+eget mattis nisl tincidunt sit amet. Duis imperdiet,
+sapien a gravida egestas, lectus dolor pretium purus,
+nec vulputate arcu est id neque. Etiam tincidunt tellus
+mi, vitae iaculis ligula auctor non.
   
 Teams:
 * <a href="https://github.com/orgs/arcadian-garden/teams/management">@arcadian.garden/management</a>
