@@ -27,6 +27,6 @@ Teams:
 * <a href="https://github.com/orgs/arcadian-garden/teams/management">@arcadian.garden/management</a>
 * <a href="https://github.com/orgs/arcadian-garden/teams/infra">@arcadian.garden/infra</a>
 
-Direct any inquiries to <a href="mailto:admin@arcadian.garden">admin@arcadian.garden</a>
+Direct any inquiries to <a href="mailto:inquiries@arcadian.garden">inquiries@arcadian.garden</a>
 </pre>
 </p>
